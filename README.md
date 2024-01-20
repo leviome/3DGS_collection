@@ -23,3 +23,4 @@ collect 3DGS works
 - **Human Gaussian Splatting: Real-time Rendering of Animatable Avatars.**[[code]][[paper](https://arxiv.org/abs/2311.17113)]
 - **Human101: Training 100+FPS Human Gaussians in 100s from 1 View.**[[code](https://github.com/longxiang-ai/Human101)][[paper](https://arxiv.org/abs/2312.15258)][[Project Page](https://longxiang-ai.github.io/Human101/)]
 - **Deformable 3D Gaussian Splatting for Animatable Human Avatars.**[[code](https://github.com/Junggy/pardy-human)][[paper](https://arxiv.org/abs/2312.15059)]
+- **Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling.** [[code](https://github.com/lizhe00/AnimatableGaussians)][[paper](https://arxiv.org/abs/2311.16096)]
